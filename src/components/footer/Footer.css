@@ -1,0 +1,50 @@
+.hero{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background: #C9C9C9;
+}
+
+.left-side{
+    display: flex;
+  
+  justify-content: space-between;
+  
+}
+.column-div{
+    display: flex;
+  
+  /* justify-content: space-around; */
+}
+
+.ul-list{
+    display: flex;
+    
+    flex-direction: column;
+    padding: 40px;
+}
+
+.ul-list li{
+    padding: 5px;
+}
+
+.title-footer{
+    font-weight: 600;
+font-size: 18px;
+}
+
+img{
+    height: 40px;
+    width: 202px;
+    object-fit: contain;
+}
+
+.right-side p{
+    font-weight: 600;
+font-size: 24px;
+}
+
+.right-side{
+    margin-top: inherit;
+}
+

@@ -1,0 +1,17 @@
+.table-head{
+    background: #BBE5C9;
+    opacity: 0.6;
+border-radius: 10px 10px 10px 10px;
+}
+.table-bordered tbody tr td{
+    background: #BBE5C9;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 6px;
+  }
+
+  .table-head tr{
+   
+text-align: center;
+
+  }
